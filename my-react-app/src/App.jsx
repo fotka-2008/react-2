@@ -20,11 +20,11 @@ const App = () => {
         }
   return ( 
     <div>
-      <button onClick={() =>setOpenAdd((prev)=>!prev)}></button>
+      <button onClick={() =>setOpenAdd((prev)=>!prev)}>asdasd</button>
     </div>
 
 
-    
+
   )
 }
 
